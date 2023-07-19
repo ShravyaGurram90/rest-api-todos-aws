@@ -33,6 +33,6 @@ phases:
 artifacts:
   files:
     - '**/*'
-    - target\rest-api-todos-aws-0.0.1-SNAPSHOT.jar
+    - target/rest-api-todos-aws-0.0.1-SNAPSHOT.jar
      discard-paths: yes
   
